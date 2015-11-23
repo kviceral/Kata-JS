@@ -1,5 +1,5 @@
 /*
-	A DAO or a base class who's job is to simply call appropriate ws
+	A DAO or a base class whose job is to simply call appropriate ws
 */
 (function() {
     var ProductFactory = function($http) {
